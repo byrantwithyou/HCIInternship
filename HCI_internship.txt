@@ -12,12 +12,14 @@ csrankings_HCI
 苏黎世联邦理工
 https://www.christianholz.net/ **
 卡耐基梅陇
+http://morphingmatter.cs.cmu.edu/contact/ ***
 http://coexlab.com/#opportunities
 http://mcom.cs.cmu.edu/
 http://www.mayankgoel.com/
 http://www.cs.cmu.edu/~jbigham/
 http://www.figlab.com/about-us/
 https://www.synergylabs.org/yuvraj/index.html
+http://www.figlab.com/about-us/**
 华盛顿大学
 http://faculty.washington.edu/aragon/
 http://faculty.washington.edu/ajko/
